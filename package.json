@@ -1,0 +1,19 @@
+{
+  "name": "fisio",
+  "version": "1.0.0",
+  "description": "web site de fisio terapia para doc",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/porrocas/A-OFisiotherapy.git"
+  },
+  "author": "Daniel Mateus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/porrocas/A-OFisiotherapy/issues"
+  },
+  "homepage": "https://github.com/porrocas/A-OFisiotherapy#readme"
+}
